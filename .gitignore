@@ -1,0 +1,4 @@
+.idea/
+BLL/__pycache__/cashier.cpython-39.pyc
+BLL/__pycache__/machine.cpython-39.pyc
+DAL/__pycache__/databaseDAL.cpython-39.pyc
